@@ -1,0 +1,8 @@
+{
+  "name": "LogoMotion Studio - AI Logo Design & Motion Animation",
+  "description": "Generate professional corporate logos in 1K, 2K, and 4K using Gemini 3 Pro, then animate them into captivating motion videos using Gemini Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
